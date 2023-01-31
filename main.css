@@ -4,12 +4,6 @@ h1{
     font-size: xx-large;
     font-weight: 400;
 }
-#div1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 25%;
-}
 input{
     margin: auto;
     display: block;
@@ -42,6 +36,12 @@ input{
         width: 600px;
         height: 500px;
     }
+    #div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
   }
    
   /* For Tablet View */
@@ -68,6 +68,12 @@ input{
         width: 400px;
         height: 300px;
     }
+      #div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+}
   }
    
   /* For Mobile Portrait View */
@@ -94,6 +100,12 @@ input{
         width: 400px;
         height: 350px;
     }
+      #div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+}
   }
    
   /* For Mobile Landscape View */
